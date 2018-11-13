@@ -1,6 +1,10 @@
 {
   "name": "example-pwa",
   "version": "0.0.1",
+  "engines": {
+    "node": "10.11.0",
+    "npm": "6.4.1"
+  },
   "description": "A simple example PWA with an app-manifest and precaching",
   "main": "index.js",
   "scripts": {
