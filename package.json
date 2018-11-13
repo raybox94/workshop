@@ -4,12 +4,12 @@
   "description": "A simple example PWA with an app-manifest and precaching",
   "main": "index.js",
   "scripts": {
-    "start": "http-server -c-1 -p 8081"
+    "start": "http-server -c-1 -p 3000"
   },
   "keywords": [
     "pwa"
   ],
-  "author": "Maximilian Schwarzmüller",
+  "author": "Rayaan Ahmed",
   "license": "MIT",
   "devDependencies": {
     "http-server": "^0.10.0"
