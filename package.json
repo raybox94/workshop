@@ -1,6 +1,6 @@
 {
   "name": "example-pwa",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A simple example PWA with an app-manifest and precaching",
   "main": "index.js",
   "scripts": {
